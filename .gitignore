@@ -1,0 +1,5 @@
+node_modules/
+.DS_Store
+*.log
+# personal backups — never commit your financial data
+*backup*.json
